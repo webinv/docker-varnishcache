@@ -1,6 +1,10 @@
 # docker-varnish
 Debian 8, Varnish 5.1
 
+# Supported tags and respective `Dockerfile` links
+
+* `5.1` `latest` ([Dockerfile](https://github.com/webinv/docker-varnishcache/blob/master/Dockerfile))
+
 ## Varnishd Usage
 
 ```
